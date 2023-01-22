@@ -1,0 +1,91 @@
+{
+  "configVersion": 1,
+  "timestamp": 1674394081626,
+  "index": "/ngapplayout/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/ngapplayout/282.4710e3222c9fe808.js",
+        "/ngapplayout/397.79c5e77453c7a9d1.js",
+        "/ngapplayout/828.bcbd96a2d2637b50.js",
+        "/ngapplayout/917.c307717358aa7cc5.js",
+        "/ngapplayout/956.01e349b82cdeb2d3.js",
+        "/ngapplayout/favicon.ico",
+        "/ngapplayout/index.html",
+        "/ngapplayout/main.fb05809b9319cc34.js",
+        "/ngapplayout/manifest.webmanifest",
+        "/ngapplayout/polyfills.aefe6453d0da6f0a.js",
+        "/ngapplayout/runtime.03f37df4160651d1.js",
+        "/ngapplayout/styles.900d5507d434c1cf.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/ngapplayout/assets/icons/icon-128x128.png",
+        "/ngapplayout/assets/icons/icon-144x144.png",
+        "/ngapplayout/assets/icons/icon-152x152.png",
+        "/ngapplayout/assets/icons/icon-192x192.png",
+        "/ngapplayout/assets/icons/icon-384x384.png",
+        "/ngapplayout/assets/icons/icon-512x512.png",
+        "/ngapplayout/assets/icons/icon-72x72.png",
+        "/ngapplayout/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/ngapplayout/282.4710e3222c9fe808.js": "61bedf7b90ebbda8f83ee4b5fcc49b2a4d5e4a38",
+    "/ngapplayout/397.79c5e77453c7a9d1.js": "d84e4dfc03265720f813228651a69a1a82039f61",
+    "/ngapplayout/828.bcbd96a2d2637b50.js": "2a9a14da3e887dadfc203830dab996dfdaedb3a4",
+    "/ngapplayout/917.c307717358aa7cc5.js": "537f368a90f9c066c263d3fd21c02b29113c4aea",
+    "/ngapplayout/956.01e349b82cdeb2d3.js": "eeae14f57a647c95290c93489b072b38a930df3a",
+    "/ngapplayout/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/ngapplayout/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/ngapplayout/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/ngapplayout/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/ngapplayout/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/ngapplayout/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/ngapplayout/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/ngapplayout/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/ngapplayout/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/ngapplayout/index.html": "5b15dfdb25fec086ed766a743b5eb24f008ec129",
+    "/ngapplayout/main.fb05809b9319cc34.js": "2cee8536058ddfcc30fd81d35f71f88cdf170699",
+    "/ngapplayout/manifest.webmanifest": "2fa9270a349b645b8f55378f324ff77d3d6f2cc4",
+    "/ngapplayout/polyfills.aefe6453d0da6f0a.js": "0e32cfccdcb8f86664e11f2b3b636ff86477cb23",
+    "/ngapplayout/runtime.03f37df4160651d1.js": "a3a5c607059f20d9afbef4b2c68e67403ac10ba7",
+    "/ngapplayout/styles.900d5507d434c1cf.css": "f57ef3def9804fcae0839da42b146d0979f4dd8c"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
